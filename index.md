@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
 # Site settings
 title: Album's Portfolio
 description: Welcome to Album's portfolio website.
