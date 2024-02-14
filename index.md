@@ -26,3 +26,4 @@ exclude:
 collections:
   posts:
     output: true
+
